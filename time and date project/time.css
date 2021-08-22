@@ -1,0 +1,20 @@
+.timeAndDate{
+	font-family: 'Xanh Mono', monospace;
+	background-color: #e8b3f5;
+}
+
+.timeIs {
+  color: #ffffff;
+  font-size: 56px;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.dateIs{
+  color: #ffffff;
+  font-size: 56px;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
